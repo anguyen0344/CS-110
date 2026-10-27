@@ -24,7 +24,7 @@ Partner feedback: My partner suggested adding the block-breaking sound to show b
 Board evidence filename: minecraft-diagram.png
 
 ## Evidence
-Board photo or accessible diagram: [View board photo]](minecraft-diagram.png)
+Board photo or accessible diagram: [View board photo](minecraft-diagram.png)
 Receipt: cs110-10a-receipt.txt
 GitHub: https://github.com/anguyen0344/CS-110
 Canvas: https://sbccd.instructure.com/courses/66804/assignments/1913141
