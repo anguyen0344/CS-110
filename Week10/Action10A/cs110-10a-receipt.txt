@@ -1,0 +1,62 @@
+CS110 / WEEK 10 / ACTION 10A
+Game & Engine Research
+Learner: An Nguyen
+Generated: 2026-10-27T21:45:30.854Z
+Due: October 27, 2026, 11:59 PM America/Los_Angeles
+
+[DECLARED COMPLETE] CS110 / Week 10 / Action 10A
+R1 · Research one game
+Record the game, goal, one player action, feedback and source link in README.md.
+Lesson: https://courses.addp2p.com/assignments/cs110/week10/index.html
+Canvas: https://sbccd.instructure.com/courses/66804/assignments/1913141
+
+[DECLARED COMPLETE] CS110 / Week 10 / Action 10A
+R2 · Compare three engines
+For each: 2D/3D, language, useful feature and official link. Choose one and explain why.
+Lesson: https://courses.addp2p.com/assignments/cs110/week10/index.html
+Canvas: https://sbccd.instructure.com/courses/66804/assignments/1913141
+
+[DECLARED COMPLETE] CS110 / Week 10 / Action 10A
+R3 · Save your discussion
+Save a board/diagram showing input → action → feedback. Name an object, two data values, one method/action and one partner comment or instructor check-in.
+Lesson: https://courses.addp2p.com/assignments/cs110/week10/index.html
+Canvas: https://sbccd.instructure.com/courses/66804/assignments/1913141
+
+[DECLARED COMPLETE] CS110 / Week 10 / Action 10A
+R4 · Submit your evidence
+Put README.md, board/diagram evidence and downloaded 10A receipt in Week10/Action10A/ in your own CS110 GitHub repository. Commit, push and submit the repository URL to Canvas today.
+Lesson: https://courses.addp2p.com/assignments/cs110/week10/index.html
+Canvas: https://sbccd.instructure.com/courses/66804/assignments/1913141
+
+# CS110 / Week 10 / Action 10A
+
+Learner: An Nguyen
+
+## R1 - Game research
+Game: Minecraft
+Goal: Gather resources, build a shelter, and survive in Survival mode.
+Player action: Hold the attack button to mine a wood block.
+Feedback: Cracks appear on the block. When it breaks, it drops an item the player can collect.
+Source: https://www.minecraft.net/
+
+## R2 - Three engines and my choice
+1. Godot / 2D and 3D / C# with the .NET edition / Nodes and scenes help organize game objects / https://godotengine.org/
+2. Unity / 2D and 3D / C# / GameObjects and components help build objects and their behaviors / https://unity.com/
+3. Stride / 2D and 3D / C# / Scenes, entities, and components help organize a game / https://www.stride3d.net/
+I would try Unity because I want to practice C# and learn how components control a game object's behavior.
+
+## R3 - Discussion and object example
+Object: A Minecraft player.
+Two data values: Position and health.
+One action/method: MineBlock() - the player mines a block.
+My engine choice and reason: Unity, because I want to practice C# and create a small game with blocks.
+Partner feedback: My partner suggested adding the block-breaking sound to show both visual and audio feedback.
+Board evidence filename: minecraft-diagram.png
+
+## Evidence
+Board photo or accessible diagram: [filename]
+Receipt: cs110-10a-receipt.txt
+GitHub: https://github.com/anguyen0344/CS-110
+Canvas: https://sbccd.instructure.com/courses/66804/assignments/1913141
+
+This receipt records learner notes and declarations, not verified attendance, correctness, Canvas submission or a grade. Save in Week10/Action10A/, commit, push and submit your GitHub URL in Canvas.
