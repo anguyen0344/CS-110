@@ -1,0 +1,14 @@
+C:\Users\B217\Desktop\Action10B\Console\HelloConsole\bin\Debug\net10.0\HelloConsole.exe
+C:\Users\B217\Desktop\Action10B\Console\HelloConsole\bin\Debug\net10.0\HelloConsole.deps.json
+C:\Users\B217\Desktop\Action10B\Console\HelloConsole\bin\Debug\net10.0\HelloConsole.runtimeconfig.json
+C:\Users\B217\Desktop\Action10B\Console\HelloConsole\bin\Debug\net10.0\HelloConsole.dll
+C:\Users\B217\Desktop\Action10B\Console\HelloConsole\bin\Debug\net10.0\HelloConsole.pdb
+C:\Users\B217\Desktop\Action10B\Console\HelloConsole\obj\Debug\net10.0\HelloConsole.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\B217\Desktop\Action10B\Console\HelloConsole\obj\Debug\net10.0\HelloConsole.AssemblyInfoInputs.cache
+C:\Users\B217\Desktop\Action10B\Console\HelloConsole\obj\Debug\net10.0\HelloConsole.AssemblyInfo.cs
+C:\Users\B217\Desktop\Action10B\Console\HelloConsole\obj\Debug\net10.0\HelloConsole.csproj.CoreCompileInputs.cache
+C:\Users\B217\Desktop\Action10B\Console\HelloConsole\obj\Debug\net10.0\HelloConsole.dll
+C:\Users\B217\Desktop\Action10B\Console\HelloConsole\obj\Debug\net10.0\refint\HelloConsole.dll
+C:\Users\B217\Desktop\Action10B\Console\HelloConsole\obj\Debug\net10.0\HelloConsole.pdb
+C:\Users\B217\Desktop\Action10B\Console\HelloConsole\obj\Debug\net10.0\HelloConsole.genruntimeconfig.cache
+C:\Users\B217\Desktop\Action10B\Console\HelloConsole\obj\Debug\net10.0\ref\HelloConsole.dll
