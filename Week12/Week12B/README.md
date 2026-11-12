@@ -14,7 +14,7 @@ Open EngineProject in Unity Hub using the version in ProjectSettings/ProjectVers
 ## Credits
 Explorer controller and Beacon: An Nguyen's Week11B project (StoryScene11B).
 Outpost and Explorer shell: original OBJ meshes generated with Codex for this project; no third-party model assets added.
-Codex assisted with the source changes, models and documentation. Runtime verification is pending on a machine with Unity.
+Codex assisted with the source changes, models and documentation. I tested the scene in Unity Play Mode. Pressing E outside the beacon’s range did nothing. Pressing E within range activated the beacon and displayed “Communication restored.”
 
 ## Handoff
-Run TestNotes.md, record actual outcomes, and add screenshots of Game view before and after activation. Put this Week12B folder under Week12 in CS-110. Keep Assets, Packages and ProjectSettings; exclude Unity caches. Add the issued course report and personal public VIEW code as instructed on the course page. Commit, push, verify GitHub and submit the repository link and public VIEW code in Canvas.
+See TestNotes.md for the test results and Evidence/ for screenshots.. Keep Assets, Packages and ProjectSettings; exclude Unity caches. Add the issued course report and personal public VIEW code as instructed on the course page. Commit, push, verify GitHub and submit the repository link and public VIEW code in Canvas.
